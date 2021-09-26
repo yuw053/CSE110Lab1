@@ -26,9 +26,9 @@ My top three favorite food
 
 ### Task list
 Today I need to do
-[] Homework
-[] Eat lunch
-[] Go to school
+-[x] Homework
+-[] Eat lunch
+-[] Go to school
 
 ### Picture
 Here are pictures of dogs
